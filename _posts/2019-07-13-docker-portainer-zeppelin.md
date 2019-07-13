@@ -87,6 +87,9 @@ Agora já pode fazer grande parte do gerenciamento diretamente da interface web.
 docker run -p 8080:8080 --rm -v $PWD/logs:/logs -v $PWD/notebook:/notebook -e ZEPPELIN_LOG_DIR='/logs' -e ZEPPELIN_NOTEBOOK_DIR='/notebook' --name zeppelin apache/zeppelin:0.8.0Objetivo é ter uma instalação funcional e gerenciável do Zeppelin no ubuntu.
 ```
 
+Referências:
+* https://stackoverflow.com/questions/24309526/how-to-change-the-docker-image-installation-directory
+* https://askubuntu.com/questions/477551/how-can-i-use-docker-without-sudo
 
 
 
