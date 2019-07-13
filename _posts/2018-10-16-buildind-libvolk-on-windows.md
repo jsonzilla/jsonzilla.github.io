@@ -1,5 +1,3 @@
-# Building libvolk on Windows
-
 ## Volk
 
 One opensource library that permits get access to vector instructions in the processor, without any assembly code. Volk is a part of GNURadio initiative, with the objective that gets better performance to DSP application. Good for DSP, hum, good for anyone? Windows. What… in Windows. Yes, in Windows. I work in a company the develop only for this platform. And we have some issues with performance is some specific points of our legacy code. Then volk maybe is a good idea. But I do not find Volk for Windows on the internet. Nether build from source is working.
