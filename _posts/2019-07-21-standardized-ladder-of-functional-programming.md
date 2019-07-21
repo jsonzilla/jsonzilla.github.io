@@ -30,7 +30,7 @@ I will make use as a checklist, to go deeper into the subject as I have time in 
 * [x] General Recursion
 * [ ] Type Classes, Instances, & Laws
 * [ ] Lower-Order Abstractions (Equal, Semigroup, Monoid, etc)
-* [ ] Referential Transparency & Totality
+* [ ] Referential Transparency & Totalit[<sup>YouTube<sup>](https://www.youtube.com/watch?v=H6d89kYjSqI)
 * [ ] Higher-Order Functions
 * [ ] Partial-Application, Currying, & Point-Free Style
 
