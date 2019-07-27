@@ -5,7 +5,7 @@ title: Configurando Path Stack
 Dada uma limitação de espaço que tenho em um notebook preciso sempre apontar o Stack para outra unidade de disco.
 No caso uma instalação Windows.
 
-Felizmente só precisa apontar a variável de ambiente STACK_ROOT para o novo destino.
+Felizmente só precisa apontar a variável de ambiente ```STACK_ROOT``` para o novo destino.
 ```sh
 STACK_ROOT = D:\NovoPath
 ```
