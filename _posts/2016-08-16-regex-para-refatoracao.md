@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Objetivos
+title: Regex para refatoração
 ---
 Uma regex bem montada pode ser de grande ajuda para o processo de refactor, e manutenção de código. Principalmente quando as ferramentas disponíveis nas IDEs, não atendem um caso específico. 
 
